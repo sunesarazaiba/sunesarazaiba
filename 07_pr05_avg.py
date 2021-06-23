@@ -1,0 +1,6 @@
+a = input("Enter first number: ")
+b = input("Enter second number: ")
+a = int(a)
+b = int(b)
+Square = (a * b)
+print("The square of a and b is", Square)
